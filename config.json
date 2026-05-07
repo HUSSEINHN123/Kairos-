@@ -15,15 +15,15 @@
     "eventDisabled": [
         "join.js"
     ],
-    "BOTNAME": "『≛ 『⇄ 𝐊𝐈𝐅𝐀𝐍 𝐁𝐎𝐓』",
+    "BOTNAME": "『≛ 『⇄ sakran 𝐁𝐎𝐓』",
     "AMDIN_NAME": "انجالاتي",
     "FACEBOOK_ADMIN": "100081948980908",
     "PREFIX": "/",
     "ADMINBOT": [
-        "61562975344669"
+        "100081948980908"
     ],
     "NDH": [
-        "100081948980908"
+        "61562975344669"
     ],
     "DATABASE": {
         "sqlite": {
